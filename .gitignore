@@ -1,0 +1,13 @@
+# Dataset
+data/
+datasets/
+audio_data/
+
+# Model
+checkpoints/
+outputs/
+models/
+MDD_Work/
+
+# Results
+results/
